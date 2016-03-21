@@ -3,7 +3,7 @@
 
   <properties>
     <java.version>1.8</java.version>
-    <maven-javadoc-plugin.version>2.10.3</maven-compiler-plugin.version>
+    <maven-javadoc-plugin.version>2.10.3</maven-javadoc-plugin.version>
     <pygments-doclet.version>1.0.0</pygments-doclet.version>
   </properties>
 
